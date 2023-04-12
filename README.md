@@ -50,4 +50,13 @@
   - Head View : The head view visualizes attention for one or more attention heads in the same layer. 
   - Model View : The model view shows a bird's-eye view of attention across all layers and heads.
   - Neuron View : The neuron view visualizes individual neurons in the query and key vectors and shows how they are used to compute attention.
+### 3. 
 
+### 4. [Transformers Interpret](https://github.com/cdpierse/transformers-interpret#transformers-intepret)
+- Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.
+- Functions 
+  - Sequence Classification Explainer and Pairwise Sequence Classification
+  - MultiLabel Classification Explainer
+  - Zero Shot Classification Explainer
+  - Question Answering Explainer
+  - Token Classification (NER) explainer
