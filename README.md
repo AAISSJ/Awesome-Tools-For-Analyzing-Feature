@@ -8,7 +8,30 @@
   - Tree ensemble example (XGBoost/LightGBM/CatBoost/scikit-learn/pyspark models)
   - Deep learning example with GradientExplainer (TensorFlow/Keras/PyTorch models)
   - Model agnostic example with KernelExplainer (explains any function)
-### 2. 
+### 2. [Bokeh](https://docs.bokeh.org/en/latest/docs/user_guide.html) 
+- Interactive Data Visualization in the browser, from Python
+- Functions 
+  - Scatter plots
+  - Lines and curves
+  - ...
+### 3. [Scattertext](https://github.com/JasonKessler/scattertext)
+- Beautiful visualizations of how language differs among document types
+- Functions
+  -  Visualizing differences based on only term frequencies
+  - Visualizing query-based categorical differences
+  - Visualizing any kind of term score
+  - Custom term positions
+  - Emoji analysis
+  - Visualizing SentencePiece tokens
+  - Visualizing scikit-learn text classification weights
+  - Creating lexicalized semiotic squares
+  - Visualizing topic models
+  - Creating T-SNE-style word embedding projection plots
+  - Using SVD to visualize any kind of word embeddings
+  - Exporting plot to matplotlib
+  - Using the same scale for both axes
+
+
 
 
 
