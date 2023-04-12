@@ -1,8 +1,7 @@
 # Tools For Analyzing Features 
 
 ## Features 
-
-1. [SHAP](https://github.com/slundberg/shap)
+### 1. [SHAP](https://github.com/slundberg/shap)
 - A game theoretic approach to explain the output of any machine learning model
 - Functions
   - Natural language example (transformers)
