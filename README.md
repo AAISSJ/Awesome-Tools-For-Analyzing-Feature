@@ -1,5 +1,6 @@
 # Tools For Analyzing Features 
 
+## Features 
 
 1. [SHAP](https://github.com/slundberg/shap)
 - A game theoretic approach to explain the output of any machine learning model
@@ -10,3 +11,6 @@
   - Model agnostic example with KernelExplainer (explains any function)
 2. 
 
+## Model Visualization
+
+1. 
